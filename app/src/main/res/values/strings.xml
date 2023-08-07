@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasketto</string>
+    <string name="tasks_screen">Tasks</string>
+    <string name="task_details" />
+    <string name="notes_screen">Notes</string>
+    <string name="home_string">Home</string>
+</resources>
